@@ -1,4 +1,4 @@
-# Data_analytics
+# SQL-PROJECTS
 **sql project on hospital adminstration**
 [Project 1:SQL PROJECT 1](https://github.com/nafiya1236/data_analytics/blob/main/udemy%20course%20P.ipynb)\
 This project is based on hospital administration.Data was taken from kaggle repository\
